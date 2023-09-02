@@ -1,2 +1,2 @@
 # mi-primer-repo
-Creando i primer repositorio en Github con Ubits!
+Creando mi primer repositorio en Github con Ubits!
